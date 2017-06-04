@@ -1,3 +1,4 @@
+
 #logo {
   width: 50px;
 }
@@ -19,12 +20,11 @@
   background-color: #212856;
   color: rgb(150,150,150);
 }
-
 .banner {
   background: url(https://images.pexels.com/photos/325521/pexels-photo-325521.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
-  background-size: cover;
-  background-position: center;
-  color: rgb(240, 240, 240);
+  background-size:cover;
+  background-position:center;
+  color: rgb(240,240,240);
   font-family: 'Open Sans', sans-serif;
   height: 400px;
   text-shadow: 1px 1px 2px black;
@@ -40,7 +40,7 @@
 
 .thumbnail {
   vertical-align: middle;
-  box-shadow: 1px 5px 5px rgb(50, 50, 50, 0.6);
+  box-shadow: 1px 5px 5px rgb(50,50,50, 0.6);
   height: 350px;
 }
 
@@ -48,28 +48,28 @@
   border-radius: 5px;
 }
 
+
+
 #footer {
-  background: rgb(248, 248, 248);
+  background: rgb(248,248,248);
   height: 30px;
   padding: 30px 0;
   color: gainsboro;
 }
-
 #footer a {
-  color: rgb(94, 94, 98);
+  color: rgb(94,94,98);
   font-size: 15px;
   transition: color 0.5s ease;
 }
-
 #footer a:hover {
-  color: rgb(231, 231, 231);
+  color: rgb(231,231,231);
 }
+
 
 #footer li {
-  color: rgb(94, 94, 98);
+  color: rgb(94,94,98);
   font-size: 15px;
 }
-
 #footer ul {
   margin-top: 2px;
 }
@@ -79,6 +79,5 @@
   font-size: 20px;
 }
 
-body {
-  padding-bottom: 70px;
-}
+body { padding-bottom: 70px; }
+
